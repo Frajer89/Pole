@@ -8,7 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox Name="txtvypis"  HorizontalAlignment="Center" Margin="0,10,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="780" Height="391"/>
-        <Button Content="Button" HorizontalAlignment="Left" Height="55" Margin="613,346,0,0" VerticalAlignment="Top" Width="138" Click="Button_Click"/>
+        <Button Content="Pole" HorizontalAlignment="Left" Height="55" Margin="613,346,0,0" VerticalAlignment="Top" Width="138" Click="Button_Click"/>
+        <Button Content="Seznam" HorizontalAlignment="Left" Margin="472,346,0,0" VerticalAlignment="Top" Height="55" Width="136" Click="Button_Click_1"/>
+        <Button Content="Odebrat" HorizontalAlignment="Left" Margin="347,346,0,0" VerticalAlignment="Top" Height="54" Width="120" Click="Button_Click_2"/>
 
     </Grid>
 </Window>
